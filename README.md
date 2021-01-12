@@ -10,15 +10,11 @@ The goal of this assignment is to build a prototype email client.
 
 ### This is the drawer section
 
-<img src="output1.jpg" alt="drawer-preview" width="350" height="700">
+<img src="output1.jpeg" alt="drawer-preview" width="350" height="700">
 
 ### This is the main view section
 
-<img src="output2.jpg" alt="main-preview" width="350" height="700">
-
-### When you click at any particular item
-
-<img src="output3.jpg" alt="onPress-preview" width="350" height="700">
+<img src="output2.jpeg" alt="main-preview" width="350" height="700">
 
 The following pages have more details. Please read through the entire document for all the details.
 
